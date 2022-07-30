@@ -1,0 +1,8 @@
+/* Write your CSS here */
+li {
+  padding: 10px;
+  background-color: transparent;
+  color: #ffffff;
+  border: 2px solid #d4d2db;
+  margin: 5px;
+}

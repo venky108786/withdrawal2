@@ -1,0 +1,65 @@
+/* Write your CSS here */
+.bg {
+  background-color: #ffffff;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.bg1 {
+  background-color: #150b3e;
+  padding: 18px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.top-heading-container {
+  display: flex;
+  flex-direction: row;
+}
+.s-logo {
+  background-color: #c7d2fe;
+  color: #7c3aed;
+  margin-right: 10px;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  display: inline-block;
+  text-align: center;
+}
+.heading {
+  color: #d4d2db;
+}
+
+.amount-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.your-balance {
+  font-size: 15px;
+  color: #585076;
+  margin-right: 10px;
+  align-self: flex-start;
+}
+.amount-blog {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+}
+.amount {
+  color: #ffffff;
+  font-size: 22px;
+}
+.amount-down {
+  font-size: 12px;
+  color: #585076;
+}
+ul {
+  list-style-type: none;
+}
